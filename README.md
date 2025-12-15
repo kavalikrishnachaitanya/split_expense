@@ -102,7 +102,7 @@ This will create `lib/firebase_options.dart` with your Firebase configuration.
 1. Go to [Google Cloud Console](https://console.cloud.google.com/apis/credentials)
 2. Add authorized JavaScript origins:
    - `http://localhost:5000` (for local development)
-   - `https://yourusername.github.io` (for production)
+   - `https://<custom_endpoint>` (for production)
 
 #### For Android:
 1. Add SHA-1 fingerprint to Firebase project
@@ -227,7 +227,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Kavali Krishna Chaitanya**
 
 - GitHub: [@kavalikrishnachaitanya](https://github.com/kavalikrishnachaitanya)
-- LinkedIn: [Kavali Krishna Chaitanya](https://www.linkedin.com/in/kavali-krishna-chaitanya/)
+- LinkedIn: [Kavali Krishna Chaitanya](https://www.linkedin.com/in/kavalikrishnachaitanya/)
 
 ## 🙏 Acknowledgments
 
@@ -239,7 +239,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help, please:
 - Open an [issue](https://github.com/kavalikrishnachaitanya/split_expense/issues)
-- Contact via [LinkedIn](https://www.linkedin.com/in/kavali-krishna-chaitanya/)
+- Contact via [LinkedIn](https://www.linkedin.com/in/kavalikrishnachaitanya/)
 
 ---
 
